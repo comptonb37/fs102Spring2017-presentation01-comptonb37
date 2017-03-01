@@ -1,4 +1,4 @@
-# Presentation 1 Blueprints
+# Presentation 1
 
 This repository contains the HTML source code and additional resources for a presentation that I, [Brian Compton](http://comptonb37.github.io), created for a freshman seminar presentation project. The presentation's source code uses the
 [reveal.js](https://github.com/hakimel/reveal.js/) framework to control the display of each slide.  I have used a
@@ -9,7 +9,7 @@ You are welcome to use these slides as inspiration for your own presentation. If
 trouble you to star this repository and then acknowledge it in your own presentation slides?
 
 Are you interested in previewing the presentation without having to download the code and resources from the GitHub
-site? Well, you can! Please view [Why do I play video games? For the Community!](https://cdn.rawgit.com/comptonb37/fs102Spring2017-presentation1-comptonb37/0280d3b6/SMPres.html).
+site? Well, you can! Please view [Why do I play video games? For the Community!](https://cdn.rawgit.com/comptonb37/fs102Spring2017-presentation01-comptonb37/2d8f2e2b/SMPres.html).
 
 ## Installation Instructions
 
